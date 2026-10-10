@@ -1,0 +1,6 @@
+#ifndef EQUATION_UTILS_H
+#define EQUATION_UTILS_H
+
+
+
+#endif #EQUATION_UTILS_H
